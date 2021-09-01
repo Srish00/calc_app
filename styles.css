@@ -36,6 +36,8 @@ background-size: cover;
 }
 .last{
   width: 50%;
+  height:60px;
+  padding-top:3%;
 }
 #cancel{
   position:relative;
